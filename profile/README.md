@@ -1,4 +1,10 @@
-# Hi there and Welcome to the SPARC Community GitHub Org 👋
+# Welcome to the SPARC Community GitHub Org 👋
+
+# 1. DO NOT FOLLOW THIS GITHUB ORGANISATION
+# 2. DO NOT STAR THIS GITHUB ORGANISATION
+# 3. DO NOT INTERACT WITH THIS GITHUB ORGANISATION
+## You will risk doxing yourself.
+## Only interact with this github org with burner accounts.
 
 This is the GitHub Organisation for the SPARC Community. Here, you can find interesting tools and code repositories that we used for community days. If you have an idea or want to share something too, just let us (the community) know on threema.
 
