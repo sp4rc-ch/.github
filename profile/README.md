@@ -10,7 +10,7 @@ This is the GitHub Organisation for the SPARC Community. Here, you can find inte
 
 ## For who is this?
 
-This organisation is only interesting for (past) members of SPARC. If you are not a [SPARC](https://sp4rc.ch) member, you won't be able to join the community or participate in community lead events. 
+This organisation is only open to current and former members of SPARC. If you are not a [SPARC](https://sp4rc.ch) member, you will not be able to join the community or participate in community-led events.
 
 ## How do I join the Community/SPARC?
 
@@ -22,7 +22,7 @@ First you have to meet the following criterias:
 - You have a PC, laptop or notebook
 
 > [!NOTE]
-> You will find more and up to date information on [the SPARC homepage]().
+> You will find more and up to date information on [the SPARC homepage](https://sparc-cyberdefence.ch/us/#:~:text=PARTICIPATION-,REQUIREMENTS,-You%20have%20Swiss).
 
 After joining SPARC, you can let me know that you would like to join the community by [contacting me](https://threema.id/87YD3CY3?text=Hello%20There%2C%0AI%20would%20like%20to%20join%20the%20sparc%20community%21%0ACheers%0A%3Cyour%20hackername%3E). 
 
@@ -37,6 +37,6 @@ All the code and tet you find here is shared with the SPARC Community solely for
 > [!CAUTION]
 > ### This GitHub organisation and its contents are **not affiliated with** or **endorsed by SPARC as an organisation** in any official capacity.
 
-The repositories, tools, and resources provided here are **used without warranty** of any kind, either express or implied. By accessing and using this GitHub Organisation, you agree to do so at your own risk, and the community takes no responsibility for any issues or damages that may arise from using the code, tools, or any associated materials.
+The repositories, tools and resources provided here are **used without any warranty, either express or implied**. By accessing and using this GitHub organisation, you acknowledge that you are doing so at your own risk. The community accepts no responsibility for any issues or damages that may arise from the use of the code, tools or any associated materials.
 
 
